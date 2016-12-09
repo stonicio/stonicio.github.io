@@ -1,7 +1,7 @@
 {
   "name": "Stonic Project",
   "tagline": "",
-  "google": "UA-88738231-1",  
   "body": "### Welcome to Stonic Project!\r\n\r\nStonic is an agentless deployment tool similar to [Ansible](https://www.ansible.com/).\r\n\r\n### Current state\r\n\r\nStonic is in early development state now. It is clear that several first Stonic releases will maintain compatibility with Ansible.\r\n\r\nSubscribe to the [Stonic Blog](https://blog.stonic.io/) for all the latest news about the project state and development.\r\n\r\nThere is [Stonic Project Board](https://github.com/stonicio/stonic/projects/1) where you can track the current state of the development and all future plans and design ideas.\r\n\r\n### How to contribute\r\n\r\nAt this stage we encourage you to file anything you wish Stonic should have or something you'd like to see in Ansible that is not there using the [Stonic Issue Tracker](https://github.com/stonicio/stonic/issues).\r\n\r\n### Authors and Contributors\r\n\r\n* Serge Matveenko (@lig)\r\n* Alex Chistyakov (@alexclear)\r\n\r\n### Contact\r\n\r\n* Follow [Stonic on Twitter](https://twitter.com/StonicProject)\r\n* Subscribe to [Stonic on Telegram](https://telegram.me/stonicproject)\r\n",
+  "google": "UA-88738231-1",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
